@@ -1,0 +1,2 @@
+C:\Users\andri_000\Source\Repos\GitProject\RealSolution\RealSolution\bin\Debug\RealSolution.exe.config
+C:\Users\andri_000\Documents\GitHub\GitProject\RealSolution\RealSolution\bin\Debug\RealSolution.exe.config
