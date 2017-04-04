@@ -12,7 +12,7 @@ namespace RealSolution
         static void Main(string[] args)
         {
             var doc = new HtmlDocument();
-            doc.Load("../../index.html");
+            doc.Load("../index.html");
         }
     }
 }
