@@ -12,7 +12,7 @@ namespace RealSolution
         static void Main(string[] args)
         {
             var doc = new HtmlDocument();
-            doc.Load("index.html");
+            doc.Load("https://github.com/arhillis/GitHubMVA");
         }
     }
 }
